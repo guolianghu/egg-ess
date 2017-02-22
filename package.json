@@ -18,7 +18,7 @@
     "eggPlugin"
   ],
   "dependencies": {
-    "ali-oss": "^4.8.0"
+    "ess": "git+https://github.com/guolianghu/ess.git"
   },
   "devDependencies": {
     "autod": "^2.7.1",

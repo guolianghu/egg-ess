@@ -1,6 +1,6 @@
 'use strict';
 
-exports.oss = {
+exports.ess = {
   default: {
     timeout: '60s',
   },
