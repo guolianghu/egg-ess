@@ -7,7 +7,7 @@ module.exports = {
    * @since 1.0.0
    * @see App#oss
    */
-  get oss() {
-    return this.app.oss;
+  get ess() {
+    return this.app.ess;
   },
 };
