@@ -1,9 +1,9 @@
 {
-  "name": "egg-oss",
+  "name": "egg-ess",
   "version": "1.0.1",
-  "description": "oss plugin for egg",
+  "description": "ess plugin for egg",
   "eggPlugin": {
-    "name": "oss"
+    "name": "ess"
   },
   "files": [
     "app",
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-oss.git"
+    "url": "git+https://github.com/eggjs/egg-ess.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-oss#readme",
+  "homepage": "https://github.com/eggjs/egg-ess#readme",
   "author": "dead_horse",
   "license": "MIT"
 }
